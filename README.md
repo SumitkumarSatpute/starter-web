@@ -13,3 +13,7 @@ To get introduced with the GIT DIFF/MERGE tools
 ## Things to Do
 
 Learn GIT concepts such as Cherry Pic , Rebase , Tagging , Pull-Rebase , Local Branching, Feture Branching, Merging Braches
+
+## Setting up for Learning
+
+This will trigger the Setup competions ....
